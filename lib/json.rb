@@ -1,3 +1,3 @@
 require 'oj'
 
-Oj.mimicJSON
+Oj.mimic_JSON
